@@ -40,6 +40,13 @@ This presentation highlights features from the following catagories of the ipywi
 * Media: Image, Audio, Video, Play.
 * File Transfer: FileUpload
 
+**NOTE:** This second presentation expects the sub-folder *image* containing the three media files:
+
+* hampug_lawrence_2018_03_12.jpg
+* sonata_pathetique_2nd_movement.mp3
+* tree_cartoon.webm
+
+
 ### Copying Code Examples
 
 Each widgets code example is designed so it is standalone and can be cut and pasted into another Jupyter notebook cell. The start and end of each widgets demonstration code is `#===`. For example to cut the whole of the Toggle button code start the cut at:
